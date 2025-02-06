@@ -1,0 +1,74 @@
+{
+    "accommodations": [
+        {
+            "id": 1,
+            "nome": "Casa na Praia dos Ingleses",
+            "imagem": "https://img.freepik.com/fotos-gratis/casa-isolada-no-campo_1303-23773.jpg",
+            "preco_noite": 350.00,
+            "localizacao": "Florianópolis, SC"
+        },
+        {
+            "id": 2,
+            "nome": "Apartamento Centro",
+            "imagem": "https://plus.unsplash.com/premium_photo-1661915661139-5b6a4e4a6fcc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FzYXxlbnwwfHwwfHx8MA%3D%3D",
+            "preco_noite": 280.00,
+            "localizacao": "São Paulo, SP"
+        },
+        {
+            "id": 3,
+            "nome": "Chalé na Serra",
+            "imagem": "https://media.istockphoto.com/id/1516933381/pt/foto/3d-render-of-modern-forest-house-with-solar-panels-on-roof-at-night.jpg?s=612x612&w=0&k=20&c=lPHQmmgWY_MjYH790C5E3g2jJ9Y_7gIUNaEDUYgXLoo=",
+            "preco_noite": 420.00,
+            "localizacao": "Gramado, RS"
+        },
+        {
+            "id": 4,
+            "nome": "Pousada Jurerê",
+            "imagem": "https://media.istockphoto.com/id/1255835530/pt/foto/modern-custom-suburban-home-exterior.jpg?s=612x612&w=0&k=20&c=vGbaNW8tuy0ae3Z59zTJY0nsMFX1UC4k3zfTlPhhsd8=",
+            "preco_noite": 500.00,
+            "localizacao": "Florianópolis, SC"
+        },
+        {
+            "id": 5,
+            "nome": "Flat Beira-Mar",
+            "imagem": "https://img.freepik.com/fotos-gratis/casa-isolada-no-campo_1303-23773.jpg",
+            "preco_noite": 300.00,
+            "localizacao": "Rio de Janeiro, RJ"
+        },
+        {
+            "id": 6,
+            "nome": "Casa Histórica",
+            "imagem": "https://plus.unsplash.com/premium_photo-1661915661139-5b6a4e4a6fcc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FzYXxlbnwwfHwwfHx8MA%3D%3D",
+            "preco_noite": 450.00,
+            "localizacao": "Ouro Preto, MG"
+        },
+        {
+            "id": 7,
+            "nome": "Apartamento Canasvieiras",
+            "imagem": "https://media.istockphoto.com/id/1516933381/pt/foto/3d-render-of-modern-forest-house-with-solar-panels-on-roof-at-night.jpg?s=612x612&w=0&k=20&c=lPHQmmgWY_MjYH790C5E3g2jJ9Y_7gIUNaEDUYgXLoo=",
+            "preco_noite": 280.00,
+            "localizacao": "Florianópolis, SC"
+        },
+        {
+            "id": 8,
+            "nome": "Casa de Campo",
+            "imagem": "https://media.istockphoto.com/id/1255835530/pt/foto/modern-custom-suburban-home-exterior.jpg?s=612x612&w=0&k=20&c=vGbaNW8tuy0ae3Z59zTJY0nsMFX1UC4k3zfTlPhhsd8=",
+            "preco_noite": 380.00,
+            "localizacao": "Campos do Jordão, SP"
+        },
+        {
+            "id": 9,
+            "nome": "Loft Design",
+            "imagem": "https://img.freepik.com/fotos-gratis/casa-isolada-no-campo_1303-23773.jpg",
+            "preco_noite": 320.00,
+            "localizacao": "Curitiba, PR"
+        },
+        {
+            "id": 10,
+            "nome": "Cabana na Praia",
+            "imagem": "https://plus.unsplash.com/premium_photo-1661915661139-5b6a4e4a6fcc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FzYXxlbnwwfHwwfHx8MA%3D%3D",
+            "preco_noite": 270.00,
+            "localizacao": "Ubatuba, SP"
+        }
+    ]
+}
